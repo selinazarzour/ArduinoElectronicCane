@@ -20,3 +20,10 @@ The Electronic Cane is an innovative solution developed and implemented using C 
 
 ### Contributions:
 Contributions to this project are welcome! Feel free to fork the repository, make enhancements, and submit pull requests. Together, we can improve the functionality and accessibility of the electronic cane for visually impaired individuals.
+
+### Information and Pictures:
+Please refer to the docs folder for additional information and pictures about the project.
+<img width="1166" alt="Screen Shot 2023-04-03 at 9 05 20 PM" src="https://github.com/selinazarzour/ArduinoElectronicCane/assets/70802446/921c32f5-6ccb-4fc0-8a02-8dc7a092d642">
+<img width="1086" alt="Screen Shot 2023-04-03 at 9 06 00 PM" src="https://github.com/selinazarzour/ArduinoElectronicCane/assets/70802446/6718d1ea-0e58-46c8-acb4-5aa29fbfee24">
+[Shiny Kasi-Luulia.pdf](https://github.com/selinazarzour/ArduinoElectronicCane/files/14150585/Shiny.Kasi-Luulia.pdf)
+![IMG_4809](https://github.com/selinazarzour/ArduinoElectronicCane/assets/70802446/07faeb91-e614-4aae-b0fe-d39bbdda68b8)

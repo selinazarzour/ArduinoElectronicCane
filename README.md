@@ -25,5 +25,5 @@ Contributions to this project are welcome! Feel free to fork the repository, mak
 Please refer to the docs folder for additional information and pictures about the project.
 <img width="1166" alt="Screen Shot 2023-04-03 at 9 05 20 PM" src="https://github.com/selinazarzour/ArduinoElectronicCane/assets/70802446/921c32f5-6ccb-4fc0-8a02-8dc7a092d642">
 <img width="1086" alt="Screen Shot 2023-04-03 at 9 06 00 PM" src="https://github.com/selinazarzour/ArduinoElectronicCane/assets/70802446/6718d1ea-0e58-46c8-acb4-5aa29fbfee24">
-[Shiny Kasi-Luulia.pdf](https://github.com/selinazarzour/ArduinoElectronicCane/files/14150585/Shiny.Kasi-Luulia.pdf)
 ![IMG_4809](https://github.com/selinazarzour/ArduinoElectronicCane/assets/70802446/07faeb91-e614-4aae-b0fe-d39bbdda68b8)
+<img width="1088" alt="Screen Shot 2024-02-03 at 2 40 00 AM" src="https://github.com/selinazarzour/ArduinoElectronicCane/assets/70802446/7f567567-5d64-473f-9c7b-9f075817d717">
